@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-md5z47.bobatoto54dsf.space/sitemap.xml
